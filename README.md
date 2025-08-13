@@ -1,4 +1,4 @@
-# 🐱 Nya Language - 猫咪编程语言
+# 🐱 Nya Language - 猫语言
 
 <div align="center">
   
@@ -6,16 +6,16 @@
   [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
   [![Test Status](https://img.shields.io/badge/tests-passing-brightgreen)](./test_nya.py)
   
-  **Nya** 是一门基于 Brainfuck 的猫咪友好编程语言，使用萌萌的猫叫声作为关键字！
+  **Nya** 是一门基于 Brainfuck 的猫咪友好编程语言，它使得使用猫语编程成为可能。
   
   `meow` `miao` `nya` `yaong` `miaou` `miau` `miyav` `meom`
   
-  *让编程变得更加可爱！* (=^･ω･^=)
+  *(=^･ω･^=)* 
 </div>
 
 ---
 
-## 📖 目录
+## 目录
 
 - [快速开始](#-快速开始)
 - [安装](#-安装)
@@ -25,11 +25,10 @@
 - [示例程序](#-示例程序)
 - [API文档](#-api文档)
 - [测试](#-测试)
-- [贡献指南](#-贡献指南)
 - [FAQ](#-faq)
 - [许可证](#-许可证)
 
-## 🚀 快速开始
+## 快速开始
 
 ```bash
 # 1. 克隆仓库
@@ -44,7 +43,7 @@ python nya.py
 >>> miaou miaou miaou miaou miaou yaong  # 输出 ASCII 5
 ```
 
-## 📦 安装
+## 安装
 
 ### 系统要求
 
@@ -74,7 +73,7 @@ python nya.py
    # 将 nya.py 所在目录添加到系统 PATH 环境变量
    ```
 
-## ✨ 语言特性
+## 语言特性
 
 - ✅ **图灵完备** - 完整实现 Brainfuck 的所有功能
 - ✅ **猫咪友好** - 使用可爱的猫叫声作为关键字
@@ -111,7 +110,7 @@ python nya.py
 
 每个内存单元格可以存储 0-255 的值（8位无符号整数）。
 
-## 💻 使用方法
+## 使用方法
 
 ### 命令行界面
 
@@ -170,7 +169,7 @@ python nya.py -f examples/hello_world.nya
 | `clear` | 清空内存 |
 | `exit` | 退出REPL |
 
-## 🎯 示例程序
+## 示例程序
 
 ### 1. Hello World
 ```nya
@@ -259,7 +258,7 @@ miao yaong                                             # !
 - `add_numbers.nya` - 简单加法计算器
 - `cat_says_meow.nya` - 猫咪说话程序
 
-## 📚 API文档
+## API文档
 
 ### 作为Python模块使用
 
@@ -323,7 +322,7 @@ pointer = interpreter.pointer  # 获取当前指针位置
 | `pointer` | int | 当前内存指针位置 |
 | `output` | str | 累积的输出字符串 |
 
-## 🧪 测试
+## 测试
 
 ### 运行测试
 
@@ -350,7 +349,7 @@ python -m unittest discover
 - ✅ Nya/Brainfuck互转测试
 - ✅ 边界条件测试
 
-## ❓ FAQ
+## FAQ
 
 ### Q: Nya语言是图灵完备的吗？
 A: 是的！Nya完整实现了Brainfuck的所有功能，因此是图灵完备的。
@@ -373,19 +372,23 @@ A: 可以！支持任意深度的循环嵌套。
 ### Q: 如何输入EOF？
 A: 在REPL中按Ctrl+D（Linux/Mac）或Ctrl+Z（Windows）。
 
-## 📄 许可证
+## 许可证
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
-## 🙏 致谢
+## 致谢
 
 - 感谢 Urban Müller 创造了 Brainfuck
 - 感谢所有喜欢猫咪的程序员
 - 特别感谢测试和反馈的朋友们
 
-## 📮 联系方式
+## 联系方式
 
 - 邮箱: gouchengouceq@163.com
+
+## 赞助
+
+按 `ALT + F4` 请猫咪吃抹茶巴菲
 
 ---
 

@@ -83,19 +83,18 @@ class NyaREPL:
         self.history = []
         
     def run(self):
-        print("Nya Language Interactive REPL")
+        print("Nya~ Welcome to Nya REPL! (=^･ω･^=)")
         print("Type 'help' for commands, 'exit' to quit")
-        print("~" * 40)
         
         while True:
             try:
-                line = input("nya> ").strip()
+                line = input(">>> ").strip()
                 
                 if not line:
                     continue
                     
                 if line == 'exit':
-                    print("Sayonara~ (=^･ω･^=)")
+                    print("Matane~ (=^･ω･^=)")
                     break
                     
                 elif line == 'help':
