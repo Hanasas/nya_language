@@ -350,46 +350,7 @@ python -m unittest discover
 - ✅ Nya/Brainfuck互转测试
 - ✅ 边界条件测试
 
-## 🤝 贡献指南
-
-欢迎贡献代码！请遵循以下步骤：
-
-### 1. Fork 项目
-点击右上角的 Fork 按钮，将项目复制到你的账户下。
-
-### 2. 创建功能分支
-```bash
-git checkout -b feature/amazing-feature
-```
-
-### 3. 提交更改
-```bash
-git commit -m 'Add some amazing feature'
-```
-
-### 4. 推送到分支
-```bash
-git push origin feature/amazing-feature
-```
-
-### 5. 创建 Pull Request
-在 GitHub 上创建一个 Pull Request，描述你的更改。
-
-### 代码规范
-
-- 使用 Python PEP 8 编码规范
-- 为新功能添加测试
-- 更新相关文档
-- 保持代码简洁可读
-
-### 报告问题
-
-如果发现bug或有建议，请在 [Issues](https://github.com/yourusername/nya/issues) 页面创建新议题。
-
 ## ❓ FAQ
-
-### Q: 为什么选择猫叫声作为关键字？
-A: 因为猫咪很可爱！而且猫叫声短小易记，比Brainfuck的符号更有趣。
 
 ### Q: Nya语言是图灵完备的吗？
 A: 是的！Nya完整实现了Brainfuck的所有功能，因此是图灵完备的。
@@ -424,9 +385,7 @@ A: 在REPL中按Ctrl+D（Linux/Mac）或Ctrl+Z（Windows）。
 
 ## 📮 联系方式
 
-- 项目主页: [https://github.com/yourusername/nya](https://github.com/yourusername/nya)
-- 问题反馈: [Issues](https://github.com/yourusername/nya/issues)
-- 邮箱: your.email@example.com
+- 邮箱: gouchengouceq@163.com
 
 ---
 
@@ -435,7 +394,5 @@ A: 在REPL中按Ctrl+D（Linux/Mac）或Ctrl+Z（Windows）。
   **用猫咪的语言编程，让世界更美好！**
   
   *Nya~ Nya~ (=^･ω･^=)*
-  
-  如果你喜欢这个项目，请给一个 ⭐ Star！
-  
+
 </div>
