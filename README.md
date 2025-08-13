@@ -33,7 +33,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/yourusername/nya.git
+git clone https://github.com/Hanasas/nya_language.git
 cd nya
 
 # 2. 运行Hello World
@@ -55,7 +55,7 @@ python nya.py
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/yourusername/nya.git
+   git clone https://github.com/Hanasas/nya_language.git
    cd nya
    ```
 
